@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "window": {
+    "title": "Drum kit",
+    "icon": "assets/images/icon.ico",
+    "toolbar": true,
+    "width": 1000,
+    "height": 1000,
+    "min_width": 1000,
+    "min_height": 1000,
+    "position": "mouse"
+  },
   "author": "",
   "license": "ISC"
 }
